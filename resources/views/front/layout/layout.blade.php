@@ -82,7 +82,7 @@
                                 </a>
                             </li>
                         </ul>
-                        <div class="small text-center text-muted fst-italic">Copyright &copy; Hello Shubham 2023</div>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; SoftSolution 2023</div>
                     </div>
                 </div>
             </div>
